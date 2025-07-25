@@ -1,0 +1,9 @@
+vehicle_type,standard_daily_rate,insurance_fee_per_day,avg_maintenance_cost_monthly,availability_index
+sedan,41.43,7.76,114.35,0.65
+pickup,56.57,12.28,393.55,0.44
+SUV,66.58,5.67,298.54,0.51
+hatchback,62.21,10.71,134.88,0.46
+convertible,70.88,10.16,137.9,0.92
+van,69.65,10.61,368.59,0.97
+coupe,67.23,12.27,358.05,0.84
+crossover,49.57,7.66,302.48,0.45

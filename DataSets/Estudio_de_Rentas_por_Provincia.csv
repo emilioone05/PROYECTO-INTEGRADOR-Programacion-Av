@@ -1,0 +1,89 @@
+id_registro,codigo,provincia,region,modelo_vehiculo,tipo_vehiculo,cantidad_rentas,promedio_dias_renta,costo_promedio_renta,rendimiento_km_por_galon,costo_promedio_por_dia,terreno,poblacion,densidad_urbana,uso_preferido
+0,1,AZUAY,Sierra,Vitara,SUV,102,7.32,481.4,41.8,65.77,alta,881000,1200,desplazamiento
+1,1,AZUAY,Sierra,CX-5,SUV,84,7.91,435.32,33.6,55.03,alta,881000,1200,negocios
+2,1,AZUAY,Sierra,Sentra,sedan,269,8.23,434.73,36.1,52.82,alta,881000,1200,desplazamiento
+3,1,AZUAY,Sierra,Tucson,SUV,161,7.72,493.56,45.9,63.93,alta,881000,1200,familiar
+4,2,BOLIVAR,Sierra,Corolla,sedan,198,7.52,470.62,46.6,62.58,media,204000,100,familiar
+5,2,BOLIVAR,Sierra,Tucson,SUV,250,7.54,462.28,37.5,61.31,media,204000,100,familiar
+6,2,BOLIVAR,Sierra,Hilux,pickup,276,7.48,455.43,39.4,60.89,media,204000,100,familiar
+7,2,BOLIVAR,Sierra,Sentra,sedan,379,7.54,499.07,38.4,66.19,media,204000,100,negocios
+8,3,CANAR,Sierra,Amarok,pickup,267,8.49,485.25,37,57.16,alta,265000,300,desplazamiento
+9,3,CANAR,Sierra,Sentra,sedan,218,7.86,427.46,36.1,54.38,alta,265000,300,familiar
+10,3,CANAR,Sierra,Vitara,SUV,320,7.11,485.83,36.5,68.33,alta,265000,300,negocios
+11,3,CANAR,Sierra,CX-5,SUV,288,7.56,487.84,44.8,64.53,alta,265000,300,negocios
+12,4,CARCHI,Sierra,Hilux,pickup,229,7.06,476.39,34.9,67.48,alta,180000,150,negocios
+13,4,CARCHI,Sierra,Amarok,pickup,251,8.01,445.4,38.4,55.61,alta,180000,150,negocios
+14,4,CARCHI,Sierra,Yaris,sedan,119,8.07,467.02,43,57.87,alta,180000,150,familiar
+15,4,CARCHI,Sierra,Tucson,SUV,108,8.03,473.46,43.9,58.96,alta,180000,150,desplazamiento
+16,5,COTOPAXI,Sierra,Hilux,pickup,179,8.11,459.05,44.5,56.6,alta,487000,400,negocios
+17,5,COTOPAXI,Sierra,Yaris,sedan,293,8.43,491.46,46,58.3,alta,487000,400,negocios
+18,5,COTOPAXI,Sierra,Tucson,SUV,191,7.21,476.42,33.9,66.08,alta,487000,400,familiar
+19,5,COTOPAXI,Sierra,Sentra,sedan,314,7.9,481.82,34,60.99,alta,487000,400,desplazamiento
+20,6,CHIMBORAZO,Sierra,CX-5,SUV,111,7.55,496.29,33.8,65.73,alta,524000,500,negocios
+21,6,CHIMBORAZO,Sierra,Vitara,SUV,148,7.35,504.6,33.9,68.65,alta,524000,500,desplazamiento
+22,6,CHIMBORAZO,Sierra,Yaris,sedan,108,8.26,477.75,35.3,57.84,alta,524000,500,desplazamiento
+23,6,CHIMBORAZO,Sierra,Tucson,SUV,335,7.6,502.96,33.1,66.18,alta,524000,500,negocios
+24,7,EL ORO,Costa,CX-5,SUV,138,7.74,467.74,41.2,60.43,baja,711000,450,negocios
+25,7,EL ORO,Costa,Corolla,sedan,392,7.37,468.38,38.2,63.55,baja,711000,450,negocios
+26,7,EL ORO,Costa,Amarok,pickup,171,7.12,438.21,44.5,61.55,baja,711000,450,negocios
+27,7,EL ORO,Costa,Yaris,sedan,283,7.76,472.66,39.8,60.91,baja,711000,450,desplazamiento
+28,8,ESMERALDAS,Costa,CX-5,SUV,376,7.25,473.46,44.9,65.3,baja,534000,200,desplazamiento
+29,8,ESMERALDAS,Costa,Corolla,sedan,290,7.75,507.58,36.9,65.49,baja,534000,200,familiar
+30,8,ESMERALDAS,Costa,Tucson,SUV,290,7.71,482.45,46.7,62.57,baja,534000,200,desplazamiento
+31,8,ESMERALDAS,Costa,Amarok,pickup,236,8.11,478.08,45.1,58.95,baja,534000,200,familiar
+32,9,GUAYAS,Costa,Tucson,SUV,154,8.01,466.69,40.7,58.26,baja,4385000,2000,familiar
+33,9,GUAYAS,Costa,Vitara,SUV,187,7.37,452.06,35.1,61.34,baja,4385000,2000,desplazamiento
+34,9,GUAYAS,Costa,Yaris,sedan,81,7.72,429.08,41.6,55.58,baja,4385000,2000,familiar
+35,9,GUAYAS,Costa,Corolla,sedan,301,7.4,438.66,33.6,59.28,baja,4385000,2000,familiar
+36,10,IMBABURA,Sierra,Corolla,sedan,256,7.03,441.98,35.8,62.87,media,467000,300,negocios
+37,10,IMBABURA,Sierra,Sentra,sedan,88,7.31,495.63,40.8,67.8,media,467000,300,negocios
+38,10,IMBABURA,Sierra,Vitara,SUV,87,8.14,434.66,36.9,53.4,media,467000,300,negocios
+39,10,IMBABURA,Sierra,CX-5,SUV,154,8.05,499.89,45.4,62.1,media,467000,300,desplazamiento
+40,11,LOJA,Sierra,Amarok,pickup,111,7.64,460.61,35.6,60.29,alta,550000,150,desplazamiento
+41,11,LOJA,Sierra,Vitara,SUV,379,8.39,460.32,41.1,54.87,alta,550000,150,negocios
+42,11,LOJA,Sierra,Tucson,SUV,283,7.5,491.44,35.4,65.53,alta,550000,150,familiar
+43,11,LOJA,Sierra,Corolla,sedan,153,7.74,506.07,38.6,65.38,alta,550000,150,familiar
+44,12,LOS RIOS,Costa,Tucson,SUV,103,7.74,493.33,35.6,63.74,baja,891000,350,negocios
+45,12,LOS RIOS,Costa,Sentra,sedan,309,8.14,456.41,40.3,56.07,baja,891000,350,familiar
+46,12,LOS RIOS,Costa,Hilux,pickup,140,8.34,474.4,46.5,56.88,baja,891000,350,desplazamiento
+47,12,LOS RIOS,Costa,Yaris,sedan,131,7.31,431.36,40.9,59.01,baja,891000,350,desplazamiento
+48,13,MANABI,Costa,Corolla,sedan,332,7.39,473.02,33.4,64.01,media,1560000,320,familiar
+49,13,MANABI,Costa,CX-5,SUV,213,7.44,493.77,37.9,66.37,media,1560000,320,desplazamiento
+50,13,MANABI,Costa,Amarok,pickup,120,8.46,446.5,37.8,52.78,media,1560000,320,desplazamiento
+51,13,MANABI,Costa,Vitara,SUV,239,7.18,433.23,43.8,60.34,media,1560000,320,negocios
+52,14,MORONA SANTIAGO,Amazonia,Hilux,pickup,131,8.05,466.8,37,57.99,media,196000,50,desplazamiento
+53,14,MORONA SANTIAGO,Amazonia,Vitara,SUV,251,8.12,488.3,37.3,60.14,media,196000,50,familiar
+54,14,MORONA SANTIAGO,Amazonia,Sentra,sedan,378,8.48,441.84,44.5,52.1,media,196000,50,familiar
+55,14,MORONA SANTIAGO,Amazonia,Yaris,sedan,238,8.31,478.85,34.7,57.62,media,196000,50,desplazamiento
+56,15,NAPO,Amazonia,Tucson,SUV,330,8.46,440.16,43.4,52.03,media,135000,30,familiar
+57,15,NAPO,Amazonia,Hilux,pickup,279,8.1,443.31,41.6,54.73,media,135000,30,familiar
+58,15,NAPO,Amazonia,Amarok,pickup,389,7.55,494.36,36.3,65.48,media,135000,30,desplazamiento
+59,15,NAPO,Amazonia,Vitara,SUV,239,7.65,449.34,46.8,58.74,media,135000,30,desplazamiento
+60,16,PASTAZA,Amazonia,CX-5,SUV,203,7.47,499.29,44.3,66.84,media,110000,20,familiar
+61,16,PASTAZA,Amazonia,Sentra,sedan,205,7.9,498.13,42.3,63.05,media,110000,20,familiar
+62,16,PASTAZA,Amazonia,Hilux,pickup,142,7.62,465.71,37.2,61.12,media,110000,20,familiar
+63,16,PASTAZA,Amazonia,Vitara,SUV,353,7.23,420.57,45.3,58.17,media,110000,20,familiar
+64,17,PICHINCHA,Sierra,Hilux,pickup,181,8.27,474.7,38.3,57.4,alta,2780000,1800,desplazamiento
+65,17,PICHINCHA,Sierra,Sentra,sedan,378,8.14,459.82,43.3,56.49,alta,2780000,1800,familiar
+66,17,PICHINCHA,Sierra,Corolla,sedan,124,7.95,442.49,42.1,55.66,alta,2780000,1800,negocios
+67,17,PICHINCHA,Sierra,Amarok,pickup,152,8.3,501.36,38.2,60.4,alta,2780000,1800,negocios
+68,18,TUNGURAHUA,Sierra,Yaris,sedan,153,7.87,421.23,46.9,53.52,alta,590000,800,desplazamiento
+69,18,TUNGURAHUA,Sierra,CX-5,SUV,99,7.5,468.37,36.4,62.45,alta,590000,800,negocios
+70,18,TUNGURAHUA,Sierra,Sentra,sedan,258,7.23,500.77,45.7,69.26,alta,590000,800,negocios
+71,18,TUNGURAHUA,Sierra,Corolla,sedan,391,8.11,507.73,43.1,62.61,alta,590000,800,desplazamiento
+72,19,ZAMORA CHINCHIPE,Amazonia,Tucson,SUV,205,7.76,438.37,36.5,56.49,media,105000,15,desplazamiento
+73,19,ZAMORA CHINCHIPE,Amazonia,Amarok,pickup,112,7.8,478.21,37.3,61.31,media,105000,15,negocios
+74,19,ZAMORA CHINCHIPE,Amazonia,Yaris,sedan,168,7.1,503.99,42.7,70.98,media,105000,15,familiar
+75,19,ZAMORA CHINCHIPE,Amazonia,Hilux,pickup,267,7.43,428.67,38.2,57.69,media,105000,15,desplazamiento
+76,21,SUCUMBIOS,Amazonia,Amarok,pickup,232,7.18,431,37.6,60.03,media,230000,35,negocios
+77,21,SUCUMBIOS,Amazonia,Hilux,pickup,210,8.09,481.7,43,59.54,media,230000,35,negocios
+78,21,SUCUMBIOS,Amazonia,Vitara,SUV,387,7.89,498.5,35.9,63.18,media,230000,35,desplazamiento
+79,21,SUCUMBIOS,Amazonia,Sentra,sedan,135,8.46,465.08,38.2,54.97,media,230000,35,familiar
+80,22,ORELLANA,Amazonia,Amarok,pickup,239,7.65,489.86,45.2,64.03,media,136000,25,negocios
+81,22,ORELLANA,Amazonia,CX-5,SUV,395,7.51,467.89,41.3,62.3,media,136000,25,desplazamiento
+82,22,ORELLANA,Amazonia,Corolla,sedan,227,7.96,456.8,43.9,57.39,media,136000,25,desplazamiento
+83,22,ORELLANA,Amazonia,Yaris,sedan,92,7.34,485.56,39.3,66.15,media,136000,25,familiar
+84,24,SANTA ELENA,Costa,Corolla,sedan,202,7.4,441.42,36.3,59.65,baja,405000,170,desplazamiento
+85,24,SANTA ELENA,Costa,Yaris,sedan,270,8.11,423.42,34.3,52.21,baja,405000,170,negocios
+86,24,SANTA ELENA,Costa,CX-5,SUV,341,7.19,468.9,40.9,65.22,baja,405000,170,negocios
+87,24,SANTA ELENA,Costa,Sentra,sedan,335,8.44,480.42,37,56.92,baja,405000,170,desplazamiento
